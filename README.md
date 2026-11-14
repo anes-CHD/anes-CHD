@@ -1,16 +1,43 @@
-## Hi there 👋
 
-<!--
-**anes-CHD/anes-CHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm anes-CHD 👋
 
-Here are some ideas to get you started:
+### Python Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building practical software solutions through code.
+
+---
+
+## About Me
+
+I'm a Python Software Developer focused on building practical applications and solving problems through programming.
+
+- 🐍 Working with Python to build software applications.
+- 🌐 Familiar with HTML and CSS.
+- 🗂️ Interested in data management and automation.
+- 🚀 Continuously learning and improving my development skills.
+- 🎯 Focused on building useful projects and delivering real solutions.
+
+## Technologies
+
+- Python
+- HTML
+- CSS
+- JSON
+
+## Currently Learning
+
+- Git & GitHub
+- Python Project Structure
+- SQLite
+- APIs
+- Software Testing
+
+## Projects
+
+I'm currently developing practical software projects.
+My projects and their documentation will be showcased here as they are completed.
+
+## Connect With Me
+
+- GitHub: https://github.com/anes-CHD
+
